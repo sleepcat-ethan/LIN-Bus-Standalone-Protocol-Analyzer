@@ -1,13 +1,12 @@
-# LIN-Bus-Standalone-Protocol-Analyzer
-Standalone LIN Bus Protocol Analyzer &amp; Master/Slave Simulator with 10-line LCD, Payload Deduplication, ID Filter, and Auto-Baud (4800-19200 bps).
 # LINOTTER — Standalone LIN Bus Protocol Analyzer & Node Simulator
+Standalone LIN Bus Protocol Analyzer &amp; Master/Slave Simulator with 10-line LCD, Payload Deduplication, ID Filter, and Auto-Baud (4800-19200 bps).
 
 Designed and assembled in small batches by **LINOTTER – Ethan**.
 
 **LINOTTER** is an assembled, standalone benchtop instrument designed for LIN bus communication analysis, development, controlled bench testing, and hands-on protocol learning. Basic monitoring requires no PC—just apply 7.4–12V DC power and observe live LIN traffic directly on the built-in 10-line LCD.
 
 
-📺 **[[Watch Video Demo on YouTube]([你的YouTube视频链接])](https://youtu.be/c43uP8N8cfs)**
+📺 **[[Watch Video Demo on YouTube]([[https://youtu.be/c43uP8N8cfs]])]**
 
 ---
 
