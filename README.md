@@ -6,7 +6,7 @@ Designed and assembled in small batches by **LINOTTER – Ethan**.
 
 **LINOTTER** is an assembled, standalone benchtop instrument designed for LIN bus communication analysis, development, controlled bench testing, and hands-on protocol learning. Basic monitoring requires no PC—just apply 7.4–12V DC power and observe live LIN traffic directly on the built-in 10-line LCD.
 
-**[Watch Video Demo on YouTube]([https://youtu.be/c43uP8N8cfs])**
+**[Watch Video Demo on YouTube](https://youtu.be/c43uP8N8cfs)**
 
 https://youtu.be/c43uP8N8cfs
 
