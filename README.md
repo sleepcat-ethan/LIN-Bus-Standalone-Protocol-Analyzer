@@ -7,6 +7,8 @@ Designed and assembled in small batches by **LINOTTER – Ethan**.
 
 **[Watch Video Demo on YouTube]([https://youtu.be/c43uP8N8cfs])**
 
+https://youtu.be/c43uP8N8cfs
+
 
 
 ---
