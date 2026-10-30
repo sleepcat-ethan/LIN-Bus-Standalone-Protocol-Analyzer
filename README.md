@@ -17,7 +17,7 @@ https://youtu.be/c43uP8N8cfs
 ## Key Features (Why I Built This)
 
 When testing automotive or industrial LIN nodes on a bench, setting up a PC interface and scrolling through thousands of identical repeating frames is tedious. LINOTTER solves this directly in hardware:
-
+![Lin Screen](屏幕说明.jpg)
 * **Standalone 10-Line LCD Display:** Directly displays timestamps, frame identifiers (ID), data bytes, payload length, checksum type (Classic or Enhanced), frame error status, and live `VBAT` bus-supply voltage without a computer.
 * **Payload Deduplication Mode:** Suppresses identical repeated payloads on screen and refreshes only when the data bytes actually change—making it effortless to spot state changes during reverse engineering or bench testing.
 * **ID Filter Mode:** Isolates and displays traffic for one selected frame ID while hiding unrelated bus traffic.
@@ -30,7 +30,7 @@ When testing automotive or industrial LIN nodes on a bench, setting up a PC inte
 ---
 
 ## Hardware & Technical Specifications
-
+![lindemopic](演示有说明.jpg)
 | Parameter | Specification |
 | :--- | :--- |
 | **Bus Type** | LIN single-wire bus |
