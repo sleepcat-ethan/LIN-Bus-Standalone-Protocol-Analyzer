@@ -44,7 +44,4 @@ When testing automotive or industrial LIN nodes on a bench, setting up a PC inte
 
 ---
 
-## Documentation & Support
-Full wiring guidelines, operating sequences (remember to always press **STOP** before switching modes), and troubleshooting steps are available in the manual in this repository. 
-
-Each unit is individually assembled and function-checked before shipment. For questions regarding your bench setup, feel free to reach out via eBay messaging.
+want to reach me? just leave a message in issue. or you can got it  https://www.ebay.com.au/itm/318932141106 very reasonable prices.
