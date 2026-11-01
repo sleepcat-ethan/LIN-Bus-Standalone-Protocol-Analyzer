@@ -44,4 +44,4 @@ When testing automotive or industrial LIN nodes on a bench, setting up a PC inte
 
 ---
 
-want to reach me? just leave a message in issue. or you can got it  https://www.ebay.com.au/itm/318932141106 very reasonable prices.
+want to reach me? just leave a message in issue. or you can got it [ebay](https://www.ebay.com.au/itm/318932141106) @ very reasonable prices.
